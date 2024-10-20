@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul Fournier</h1>
-<h3 align="center">A passionate developer from Paris - France</h3>
+<h3 align="center">A Data Scientist from Paris - France</h3>
 
-- 🌱 I’m currently learning **Data Science with python**
-
-- 💬 Ask me about **Ruby on rails**
+- 🌱 I’m currently working at **The French Financial Market Authority**
 
 - 📫 How to reach me **pfournier597@gmail.com**
 
